@@ -1,0 +1,16 @@
+
+	/// randname / gen-name ///
+
+Description:
+	generation random name for peoples
+
+Author: Tr.Vlad
+Git: Troshin-Vlad
+
+Install:
+
+$ make
+
+OR:
+
+$ gcc randname.c -o randname 
